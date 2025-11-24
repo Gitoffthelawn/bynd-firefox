@@ -12,7 +12,7 @@
 <h4>Keybinds for Firefox</h4>
 
 <a href="https://addons.mozilla.org/firefox/addon/bynd">
-  <img src="https://i.ibb.co/k2DtSHS6/firefox-download-dark.png" alt="Get it on Firefox" width="120">
+  <img src="https://i.ibb.co/wZS8XBX0/firefox-download-dark-nobg.png" alt="Get it on Firefox" width="120">
 </a>
 
 </p>
